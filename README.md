@@ -2,8 +2,8 @@
 
 #### I'm a software engineer from Brazil working mostly with mobile and web applications. 
 
-- I’m currently working on [Oncoclínicas por Você](https://apps.apple.com/br/app/oncocl%C3%ADnicas-por-voc%C3%AA/id6444621218?l=en) app.
-- Other projects that I worked on include: [Situs Arqueologia](https://situsarqueologia.com.br), [Puravida](https://play.google.com/store/apps/details?id=br.com.puravida), [SIGBio-RS](https://gis.fepam.rs.gov.br/sigbio/).
+- I’m currently working on a travel agency platform called [Teresa Perez Collection](https://teresaperezcollection.com/).
+- Other projects that I worked on include: [Oncoclínicas por Você](https://apps.apple.com/br/app/oncocl%C3%ADnicas-por-voc%C3%AA/id6444621218?l=en), [Situs Arqueologia](https://situsarqueologia.com.br), [Puravida](https://play.google.com/store/apps/details?id=br.com.puravida), [SIGBio-RS](https://gis.fepam.rs.gov.br/sigbio/).
 - My main skills are frontend oriented, but I have experience with the entire app development and publishing flow.
 - I’m currently studying Software Design, Clean Architecture, Domain Driven Design.
 - Fun facts: I graduated in environmental engineering in college and I love working with maps and geospatial data.
