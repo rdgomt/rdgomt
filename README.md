@@ -16,3 +16,6 @@ My [stars](https://github.com/rdgomt?tab=stars) are some of the packages I've us
 #### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rdgomt) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rdgomt)
+
+#### Personal website:
+[iamrodri.com](https://iamrodri.com/)
